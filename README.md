@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Wadkar</h1>
-<h3 align="center">Full-Stack Java Developer with Spring and React knowledge</h3>
+<h3 align="center">Full-Stack Java Developer skilled in Spring and React framework</h3>
 
 - 💬 Ask me about **java, react, spring**
 
